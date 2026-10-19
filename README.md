@@ -1,25 +1,62 @@
-# Hi, I'm Mohammad Khattab 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="Mohammad Khattab: Computer Engineering student building AI-assisted apps and self-hosted infrastructure" width="100%">
+</p>
 
-Computer Engineering student at **Princess Sumaya University for Technology (PSUT)**, Amman, Jordan.
-I build AI-assisted web apps, automations, and self-hosted infrastructure, from idea to live deployment.
+<p align="center">
+  <a href="https://portfolio.mkll.me"><img src="https://img.shields.io/badge/Portfolio-portfolio.mkll.me-22d3ee?style=for-the-badge&logo=astro&logoColor=white&labelColor=0b0f1a" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/mohammad-khattab-0137b93ab"><img src="https://img.shields.io/badge/LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f1a" alt="LinkedIn"></a>
+  <a href="https://harakeh.mkll.me"><img src="https://img.shields.io/badge/Try-Harakeh-10b981?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0b0f1a" alt="Harakeh"></a>
+</p>
 
-🌐 **Portfolio:** [portfolio.mkll.me](https://portfolio.mkll.me) · 💼 **LinkedIn:** [mohammad-khattab](https://www.linkedin.com/in/mohammad-khattab-0137b93ab)
+### 👋 About me
 
-## What I've built
+I'm a Computer Engineering student at **Princess Sumaya University for Technology (PSUT)** in Amman, Jordan. I like taking an idea all the way to something people can actually use: a live web app, a server that runs 24/7, or an automation I rely on every day.
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Harakeh](https://harakeh.mkll.me)** | Live bilingual (EN/AR) city guide for Amman: 100+ places, map, filters, Google sign-in and saved lists | Cloudflare Workers · Supabase · Clerk · Upstash Redis |
-| **Homelab** | Self-hosted Proxmox server running 12+ services (DNS filtering, photo backup, password manager, monitoring). Zero open ports, remote access over Tailscale | Proxmox · LXC/Docker · ZFS · Caddy · Tailscale |
-| **AI Telegram assistant** | Sends a reminder before each lecture and answers questions about my courses and uni email (read-only). Code decides the facts and the AI writes the words | n8n · Claude Code · MCP · Telegram API |
-| **[MKHUB / Personal OS](https://github.com/Mohammad-Khattab/Personal-OS-2)** | Local-first dashboard for finance, tasks and notes, with an encrypted vault ([live](https://personal-os-seven-rho.vercel.app)) | React · Vite · Supabase · Web Crypto |
-| **[ClinicBot](https://github.com/Mohammad-Khattab/clinicbot)** | WhatsApp bot that books clinic appointments in Arabic or English, with automatic reminders | Node.js · Twilio · Llama 3.1 · Google Sheets |
-| **[Snake 3D](https://github.com/Mohammad-Khattab/snake-3d)** | Neon 3D Snake with 9 maps, 20 levels and unlockable skins | Three.js |
+- 🚀 Launched **[Harakeh](https://harakeh.mkll.me)**, a bilingual city guide for Amman, which I designed, built and deployed solo
+- 🖥️ Run my own **Proxmox homelab** with 12+ self-hosted services, zero open ports and nightly backups
+- 🤖 Build **AI agents and automations** with Claude Code, n8n and MCP, following one rule: *code decides the facts, AI writes the words*
+- 🎯 Looking for an **internship** in software, AI or infrastructure
 
-## Tools I work with
+### 🛠️ Featured work
 
-`JavaScript` `TypeScript` `Python` `C` `Astro` `Next.js` `React` `Node.js` `Supabase` `Cloudflare Workers` `Proxmox` `Docker` `Linux` `n8n` `Claude Code` `Arduino`
+<p align="center">
+  <a href="https://harakeh.mkll.me"><img src="assets/card-harakeh.svg" width="49%" alt="Harakeh"></a>
+  <a href="https://portfolio.mkll.me"><img src="assets/card-homelab.svg" width="49%" alt="Homelab"></a>
+  <a href="https://portfolio.mkll.me"><img src="assets/card-assistant.svg" width="49%" alt="AI Uni Assistant"></a>
+  <a href="https://github.com/Mohammad-Khattab/Personal-OS-2"><img src="assets/card-mkhub.svg" width="49%" alt="MKHUB / Personal OS"></a>
+</p>
 
-## Certifications
+<details>
+<summary><b>More projects</b></summary>
+<br>
 
-Anthropic: Claude Code in Action, Claude Platform 101, Claude Code 101, Claude 101, AI Fluency · Google: Project Management (Foundations, Initiation) · Gemini Certified University Student
+| Project | What it is |
+|---|---|
+| [ClinicBot](https://github.com/Mohammad-Khattab/clinicbot) | WhatsApp bot that books clinic appointments in Arabic or English, with automatic reminders (Node.js · Twilio · Llama 3.1 · Google Sheets) |
+| [MediConnect](https://github.com/Mohammad-Khattab/mediconnect-telehealth-ui) | Bilingual telehealth demo with booking, a symptom checker and a patient portal (Next.js · TypeScript) |
+| [Coffee House](https://github.com/Mohammad-Khattab/coffee-house-template) | EN/AR landing page template with full RTL support (Next.js · TypeScript) |
+| [Snake 3D](https://github.com/Mohammad-Khattab/snake-3d) | Neon 3D Snake with 9 maps, 20 levels and 20 skins (Three.js) |
+| [MMKL Snake](https://github.com/Mohammad-Khattab/mmkl-snake) | Snake with a Node.js backend, campaign, in-game currency and skins |
+| [Snakes & Ladders](https://github.com/Mohammad-Khattab/snakes-and-ladders) | Dark-fantasy board game for 2–4 players with AI opponents |
+| Clap controller | Arduino microphone circuit that recognises clap patterns to control a light (C++) |
+
+</details>
+
+### 🧰 Tech I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css,react,nextjs,astro,nodejs,threejs&theme=dark" alt="Languages and frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,redis,cloudflare,vercel,docker,linux,debian,bash,git,github,arduino&theme=dark" alt="Infrastructure and tools">
+</p>
+
+### 📜 Certifications
+
+**Anthropic:** Claude Code in Action · Claude Platform 101 · Claude Code 101 · Claude 101 · AI Fluency · Intro to Claude Cowork<br>
+**Google:** Project Management (Foundations, Project Initiation) · Gemini Certified University Student
+
+### 🐍 Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammad-Khattab/Mohammad-Khattab/output/snake-dark.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/Mohammad-Khattab/Mohammad-Khattab/output/snake.svg" width="100%">
+</picture>
