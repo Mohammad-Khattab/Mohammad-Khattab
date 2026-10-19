@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg?v=5" alt="Mohammad Khattab: Computer Engineering student building AI-assisted apps and self-hosted infrastructure" width="100%">
+  <img src="assets/banner-v2.svg" alt="Mohammad Khattab: Computer Engineering student building AI-assisted apps and self-hosted infrastructure" width="100%">
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@ I'm a Computer Engineering student at **Princess Sumaya University for Technolog
 ### FEATURED WORK
 
 <p align="center">
-  <a href="https://harakeh.mkll.me"><img src="assets/card-harakeh.svg?v=5" width="49%" alt="Harakeh"></a>
-  <a href="https://portfolio.mkll.me"><img src="assets/card-homelab.svg?v=5" width="49%" alt="Homelab"></a>
-  <a href="https://portfolio.mkll.me"><img src="assets/card-assistant.svg?v=5" width="49%" alt="AI Uni Assistant"></a>
-  <a href="https://github.com/Mohammad-Khattab/Personal-OS-2"><img src="assets/card-mkhub.svg?v=5" width="49%" alt="MKHUB / Personal OS"></a>
+  <a href="https://harakeh.mkll.me"><img src="assets/card-harakeh-v2.svg" width="49%" alt="Harakeh"></a>
+  <a href="https://portfolio.mkll.me"><img src="assets/card-homelab-v2.svg" width="49%" alt="Homelab"></a>
+  <a href="https://portfolio.mkll.me"><img src="assets/card-assistant-v2.svg" width="49%" alt="AI Uni Assistant"></a>
+  <a href="https://github.com/Mohammad-Khattab/Personal-OS-2"><img src="assets/card-mkhub-v2.svg" width="49%" alt="MKHUB / Personal OS"></a>
 </p>
 
 <details>
@@ -45,7 +45,7 @@ I'm a Computer Engineering student at **Princess Sumaya University for Technolog
 ### TECH I WORK WITH
 
 <p align="center">
-  <img src="assets/ai-tools.svg?v=5" alt="AI and automation: Claude, Codex, Gemini, n8n, Proxmox"><br><br>
+  <img src="assets/ai-tools-v2.svg" alt="AI and automation: Claude, Codex, Gemini, n8n, Proxmox"><br><br>
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css,react,nextjs,astro,nodejs,threejs&theme=light" alt="Languages and frameworks"><br>
   <img src="https://skillicons.dev/icons?i=supabase,postgres,redis,cloudflare,vercel,docker,linux,debian,bash,git,github,windows,vscode,arduino&theme=light" alt="Infrastructure and tools">
 </p>
