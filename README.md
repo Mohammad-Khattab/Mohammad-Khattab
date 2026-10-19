@@ -45,7 +45,7 @@ I'm a Computer Engineering student at **Princess Sumaya University for Technolog
 ### TECH I WORK WITH
 
 <p align="center">
-  <img src="assets/ai-tools-v2.svg" alt="AI and automation: Claude, Codex, Gemini, n8n, Proxmox"><br><br>
+  <img src="assets/ai-tools-v3.svg" alt="AI and automation: Claude, Codex, Gemini, n8n, Proxmox"><br><br>
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css,react,nextjs,astro,nodejs,threejs&theme=light" alt="Languages and frameworks"><br>
   <img src="https://skillicons.dev/icons?i=supabase,postgres,redis,cloudflare,vercel,docker,linux,debian,bash,git,github,windows,vscode,arduino&theme=light" alt="Infrastructure and tools">
 </p>
