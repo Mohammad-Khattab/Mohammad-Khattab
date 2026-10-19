@@ -23,7 +23,7 @@ I'm a Computer Engineering student at **Princess Sumaya University for Technolog
   <a href="https://harakeh.mkll.me"><img src="assets/card-harakeh-v2.svg" width="49%" alt="Harakeh"></a>
   <a href="https://portfolio.mkll.me"><img src="assets/card-homelab-v2.svg" width="49%" alt="Homelab"></a>
   <a href="https://portfolio.mkll.me"><img src="assets/card-assistant-v2.svg" width="49%" alt="AI Uni Assistant"></a>
-  <a href="https://github.com/Mohammad-Khattab/Personal-OS-2"><img src="assets/card-mkhub-v2.svg" width="49%" alt="MKHUB / Personal OS"></a>
+  <a href="https://github.com/Mohammad-Khattab/clinicbot"><img src="assets/card-clinicbot-v2.svg" width="49%" alt="ClinicBot"></a>
 </p>
 
 <details>
@@ -32,7 +32,6 @@ I'm a Computer Engineering student at **Princess Sumaya University for Technolog
 
 | Project | What it is |
 |---|---|
-| [ClinicBot](https://github.com/Mohammad-Khattab/clinicbot) | WhatsApp bot that books clinic appointments in Arabic or English, with automatic reminders (Node.js · Twilio · Llama 3.1 · Google Sheets) |
 | [MediConnect](https://github.com/Mohammad-Khattab/mediconnect-telehealth-ui) | Bilingual telehealth demo with booking, a symptom checker and a patient portal (Next.js · TypeScript) |
 | [Coffee House](https://github.com/Mohammad-Khattab/coffee-house-template) | EN/AR landing page template with full RTL support (Next.js · TypeScript) |
 | [Snake 3D](https://github.com/Mohammad-Khattab/snake-3d) | Neon 3D Snake with 9 maps, 20 levels and 20 skins (Three.js) |
