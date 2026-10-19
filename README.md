@@ -13,7 +13,7 @@
 I'm a Computer Engineering student at **Princess Sumaya University for Technology (PSUT)** in Amman, Jordan. I like taking an idea all the way to something people can actually use: a live web app, a server that runs 24/7, or an automation I rely on every day.
 
 - 🚀 Launched **[Harakeh](https://harakeh.mkll.me)**, a bilingual city guide for Amman, which I designed, built and deployed solo
-- 🖥️ Run my own **Proxmox homelab** with 12+ self-hosted services, zero open ports and nightly backups
+- 🖥️ Run my own **Proxmox homelab** with 12+ self-hosted services, zero open ports and Telegram uptime alerts
 - 🤖 Build **AI agents and automations** with Claude Code, n8n and MCP, following one rule: *code decides the facts, AI writes the words*
 - 🎯 Looking for an **internship** in software, AI or infrastructure
 
@@ -54,9 +54,3 @@ I'm a Computer Engineering student at **Princess Sumaya University for Technolog
 **Anthropic:** Claude Code in Action · Claude Platform 101 · Claude Code 101 · Claude 101 · AI Fluency · Intro to Claude Cowork<br>
 **Google:** Project Management (Foundations, Project Initiation) · Gemini Certified University Student
 
-### 🐍 Contribution activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammad-Khattab/Mohammad-Khattab/output/snake-dark.svg">
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/Mohammad-Khattab/Mohammad-Khattab/output/snake.svg" width="100%">
-</picture>
