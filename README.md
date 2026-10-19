@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Mohammad Khattab: Computer Engineering student building AI-assisted apps and self-hosted infrastructure" width="100%">
+  <img src="assets/banner.svg?v=3" alt="Mohammad Khattab: Computer Engineering student building AI-assisted apps and self-hosted infrastructure" width="100%">
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@ I'm a Computer Engineering student at **Princess Sumaya University for Technolog
 ### 🛠️ Featured work
 
 <p align="center">
-  <a href="https://harakeh.mkll.me"><img src="assets/card-harakeh.svg" width="49%" alt="Harakeh"></a>
-  <a href="https://portfolio.mkll.me"><img src="assets/card-homelab.svg" width="49%" alt="Homelab"></a>
-  <a href="https://portfolio.mkll.me"><img src="assets/card-assistant.svg" width="49%" alt="AI Uni Assistant"></a>
-  <a href="https://github.com/Mohammad-Khattab/Personal-OS-2"><img src="assets/card-mkhub.svg" width="49%" alt="MKHUB / Personal OS"></a>
+  <a href="https://harakeh.mkll.me"><img src="assets/card-harakeh.svg?v=3" width="49%" alt="Harakeh"></a>
+  <a href="https://portfolio.mkll.me"><img src="assets/card-homelab.svg?v=3" width="49%" alt="Homelab"></a>
+  <a href="https://portfolio.mkll.me"><img src="assets/card-assistant.svg?v=3" width="49%" alt="AI Uni Assistant"></a>
+  <a href="https://github.com/Mohammad-Khattab/Personal-OS-2"><img src="assets/card-mkhub.svg?v=3" width="49%" alt="MKHUB / Personal OS"></a>
 </p>
 
 <details>
@@ -45,9 +45,9 @@ I'm a Computer Engineering student at **Princess Sumaya University for Technolog
 ### 🧰 Tech I work with
 
 <p align="center">
+  <img src="assets/ai-tools.svg?v=3" alt="AI and automation: Claude, Codex, Gemini, n8n, Proxmox"><br><br>
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css,react,nextjs,astro,nodejs,threejs&theme=dark" alt="Languages and frameworks"><br>
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,redis,cloudflare,vercel,docker,linux,debian,bash,git,github,windows,vscode,arduino&theme=dark" alt="Infrastructure and tools"><br>
-  <img src="assets/ai-tools.svg" alt="AI and automation: Claude, Codex, Gemini, n8n, Proxmox">
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,redis,cloudflare,vercel,docker,linux,debian,bash,git,github,windows,vscode,arduino&theme=dark" alt="Infrastructure and tools">
 </p>
 
 ### 📜 Certifications
